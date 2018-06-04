@@ -1,0 +1,7 @@
+name: 'DBEE User Email Fix'
+type: module
+description: 'Ensures email addresses are decrypted in system user emails.'
+core: 8.x
+package: 'Other'
+dependencies:
+  - dbee
